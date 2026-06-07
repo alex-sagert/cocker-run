@@ -1,0 +1,6 @@
+# Laufzeit (Desktop). 'pygame-ce' ist empfohlen; das klassische 'pygame'
+# funktioniert ebenfalls (gleicher Import-Name).
+pygame-ce>=2.4.0
+
+# Nur fuer den Web-Build (WebAssembly via pygbag):
+pygbag>=0.9.0

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# pygbag Web-Build
+build/
+*.apk
+pygbag_*.log
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# temporaere Analyse-/Screenshot-Dateien
+shot.png
+ingame_*.png
+assets/SHEET_grid.png
+assets/crop_*.png
+assets/freed_*.png
+assets/*_view.png
+
+# Laufzeit-Highscores (lokal)
+highscores.json
