@@ -1,5 +1,8 @@
 # 🐶 Cocker Run
 
+### ▶️ [Jetzt im Browser spielen](https://alex-sagert.github.io/cocker-run/)
+*Direkt am Desktop oder Smartphone – ohne Installation.*
+
 Ein 2.5D-Endless-Runner in **Python / Pygame** mit dem Englisch Cocker Spaniel
 **Aiva**. Sammle Kaustangen 🦴, weiche Hindernissen aus, springe durch Portale
 in neue Level – und jage den höchsten Rang (S/A/B/C/D)!
